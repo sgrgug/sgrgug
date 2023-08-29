@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Gurung</h1>
-<h3 align="center">A passionate laravel full developer from Nepal.</h3>
+<h3 align="center">A passionate laravel full stack developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgrgug&label=Profile%20views&color=0e75b6&style=flat" alt="sgrgug" /> </p>
 
