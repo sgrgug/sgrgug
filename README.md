@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/BfdFp5Y/Screenshot-2023-10-26-121611.png"  />
+  <img height="300" width="100%" src="https://i.ibb.co/BfdFp5Y/Screenshot-2023-10-26-121611.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sagar Gurung</h1>
