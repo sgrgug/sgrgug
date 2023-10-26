@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Sagar Gurung</h1>
 <h3 align="center">A passionate laravel full stack developer from Nepal.</h3>
 
