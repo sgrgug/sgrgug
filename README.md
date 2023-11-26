@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://imageupload.io/ib/QMS8yr8QQYlXST9_1698646919.png"  />
+  <img width="100%" src="https://ibb.co/F3PtVNz"  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgrgug&label=Profile%20views&color=0e75b6&style=flat" alt="sgrgug" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgrgug" alt="sgrgug" /></a> </p>
