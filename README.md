@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgrgug" alt="sgrgug" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_sgrgug" target="blank"><img src="https://img.shields.io/twitter/follow/_sgrgug?logo=twitter&style=for-the-badge" alt="_sgrgug" /></a> </p>
-
 - 💬 Ask me about **vuejs, laravel, php**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
